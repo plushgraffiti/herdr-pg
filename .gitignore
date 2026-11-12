@@ -1,0 +1,7 @@
+# Written by Herdr into every mod folder
+gpui-kit.d.ts
+herdr.d.ts
+jsconfig.json
+.DS_Store
+# A copy of pg-usage, made by install.sh (a mod can't import from another mod's folder)
+pg-statusbar/mods/pg-statusbar/usage/
