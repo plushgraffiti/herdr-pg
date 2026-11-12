@@ -2,6 +2,20 @@ MIT License
 
 Copyright (c) 2026 PG
 
+Portions of pg-usage (helpers/, providers/, lib/report.js, lib/state.js) are
+from herdr-usage-limits (https://github.com/nozikov/herdr-usage-limits),
+Copyright (c) 2026 Anton Nozikov, MIT License. Its Claude `get_usage` approach
+is credited there to jmalicki/herdr-mod-ai-usage (MIT).
+
+The look of pg-usage follows over9k-usage
+(https://github.com/herunan/herdr-over9k), Copyright (c) 2026 the Over9k
+authors, MIT License.
+
+pg-statusbar is a modified copy of the `workspace-status` mod shipped with the
+Herdr app (version 0.1.15), which is licensed under the Apache License,
+Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0). Changes: the usage
+limits are drawn in the middle of the bar.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
