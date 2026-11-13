@@ -16,6 +16,15 @@ Herdr app (version 0.1.15), which is licensed under the Apache License,
 Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0). Changes: the usage
 limits are drawn in the middle of the bar.
 
+PG/layouts/PG.json is a modified copy of the `main` layout
+shipped with the Herdr app (version 0.1.15), under the same Apache License,
+Version 2.0. Changes: the status bar is pg-statusbar.
+
+auto-title/mods/auto-title is an unmodified copy of the `mod/mods/auto-title`
+folder of Herdr Auto Title (https://github.com/kryptamine/herdr-auto-title,
+release 0.22.2), and auto-title/config.env is its config.env.example with one
+setting changed, Copyright (c) 2026 Alexander Satretdinov, MIT License.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights

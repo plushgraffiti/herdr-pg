@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.sh text eol=lf
+# Windows runs auto-title's installer through cmd.exe, which needs CRLF
+*.cmd text eol=crlf
